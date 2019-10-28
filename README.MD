@@ -1,6 +1,6 @@
-<em>Ivan Medina</em>
+<li><em>Ivan Medina</em></li>
 
- <strong>Erick Carias</strong>
+<li><strong>Erick Carias</strong></li>
 
 
- <strong><em>Moises Pantoja </em></strong>
+<li><strong><em>Moises Pantoja </em></strong></li>
