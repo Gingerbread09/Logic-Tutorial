@@ -1,5 +1,5 @@
 Ivan Medina
 
-Erick Carias
+Erick Carias <strong>bold text</strong>
 
 
